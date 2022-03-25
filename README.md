@@ -349,8 +349,9 @@ Alternatively, you can specify a single test file to run at a time:
 ```
 $ python3 unittest -m tests/test_console.py
 ```
+<img src=”image/Project-0x03.AirBnB_clone-Deploy-static-ALX-Africa-Intranet.html">
 
 
 ## Authors
-Sofonias Sintayehu - [Github](https://github.com/sofology)  
-ANTENEH Bizuneh - [Github](https://github.com/Anteneh2121)
+Gedeon Obae Gekonge - [Github](https://github.com/Gedeonobae)  
+Gideon Ogega - [Github](https://github.com/Ogega254)
