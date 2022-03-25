@@ -349,7 +349,7 @@ Alternatively, you can specify a single test file to run at a time:
 ```
 $ python3 unittest -m tests/test_console.py
 ```
-<img src=”image/Project-0x03.AirBnB_clone-Deploy-static-ALX-Africa-Intranet.html">
+<a href=”image/Project-0x03.AirBnB_clone-Deploy-static-ALX-Africa-Intranet.html">file</a>
 
 
 ## Authors
