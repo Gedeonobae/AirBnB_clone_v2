@@ -17,6 +17,7 @@ from sqlalchemy.orm import sessionmaker
 
 class DBStorage:
     """Represents a database storage engine.
+
     Attributes:
         __engine (sqlalchemy.Engine): The working SQLAlchemy engine.
         __session (sqlalchemy.Session): The working SQLAlchemy session.
@@ -38,7 +39,9 @@ class DBStorage:
 
     def all(self, cls=None):
         """Query on the curret database session all objects of the given class.
+
         If cls is None, queries all types of objects.
+
         Return:
             Dict of queried classes in the format <class name>.<obj id> = obj.
         """

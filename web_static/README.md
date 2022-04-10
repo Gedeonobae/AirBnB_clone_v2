@@ -1,5 +1,2 @@
-#  0x01. AirBnB clone - Web static
-
-###  Now that you have a command interpreter for managing your AirBnB objects, it’s time to make them alive!
-
-####  Before developing a big and complex web application, we will build the front end step-by-step.
+This part of the AriBnB clone is the web static part where we will create
+HTML and CSS styling

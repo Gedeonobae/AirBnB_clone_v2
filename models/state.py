@@ -12,7 +12,9 @@ from sqlalchemy.orm import relationship
 
 class State(BaseModel, Base):
     """Represents a state for a MySQL database.
+
     Inherits from SQLAlchemy Base and links to the MySQL table states.
+
     Attributes:
         __tablename__ (str): The name of the MySQL table to store States.
         name (sqlalchemy String): The name of the State.

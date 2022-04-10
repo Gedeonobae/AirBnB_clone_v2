@@ -1,30 +1,23 @@
-/*
- * === Filters class style ===
- */
-
-/* Filters style */
-.filters {
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  height: 70px;
-  width: 100%;
+.container .filters {
+    position: relative;
+    background: white;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
 }
-
-/* Search button style */
-.filters button {
-  background: #ff5a5f;
-  border: none;
-  border-radius: 4px;
-  color: #fff;
-  float: right;
-  font-size: 18px;
-  height: 48px;
-  margin: 12px 30px;
-  width: 20%;
+button {
+    position: absolute;
+    font-size: 18px;
+    background: #FF5A5F;
+    color: #FFFFFF;
+    height: 48px;
+    width: 20%;
+    border-style: none;
+    border-radius: 4px;
+    top: 15%;
+    right: 30px;
 }
-
-/* Search button hover opacity */
-.filters button:hover {
-  background-color: rgba(255, 90, 95, .9);
+button:hover {
+    opacity: 0.9;
 }
